@@ -2,7 +2,7 @@
 
 ## Objective:- To showcase Front-End-Development Skills.
 
-##Skills :- HTML and CSS, Figma
+## Skills :- HTML and CSS, Figma
 
 Basic HTML and CSS Page in which __CSS Layouts__ were used.\
 Positioning was done to give good look and feel to page.\
